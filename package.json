@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-connecticut-code",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Connecticut General Statutes — state statutes by citation.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-ea96d387fd5d96c37817933f3532ce4317b4b866a7ac9e00a84f4837e12409ad",
-    "sourceCommit": "5b29c2b0c11e1fcd954969a245b474e6e9475116"
+    "sourceHash": "v1-1557031246994bd38489bced911a17db990878443ca91d23ffd3e9c7426f20ff",
+    "sourceCommit": "b0a4b8e2f3f5b3a4c3f9f2c9a73f91b20d32ce11"
   }
 }
